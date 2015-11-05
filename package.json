@@ -1,0 +1,23 @@
+{
+  "name": "js-git-workspace",
+  "version": "1.0.0",
+  "description": "JS Git workspace.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSVillage/js-git-workspace.git"
+  },
+  "keywords": [
+    "js",
+    "git"
+  ],
+  "author": "JS Workshop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSVillage/js-git-workspace/issues"
+  },
+  "homepage": "https://github.com/JSVillage/js-git-workspace#readme"
+}
