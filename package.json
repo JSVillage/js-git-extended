@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/JSVillage/js-git-workspace/issues"
   },
-  "homepage": "https://github.com/JSVillage/js-git-workspace#readme"
+  "homepage": "https://github.com/JSVillage/js-git-workspace#readme",
+  "dependencies": {
+    "js-git": "^0.7.7"
+  }
 }
